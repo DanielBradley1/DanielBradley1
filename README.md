@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel Bradley 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/DanielatOCN?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=white)](https://twitter.com/DanielatOCN)
+[![x Follow](https://img.shields.io/twitter/follow/DanielatOCN?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=white)](https://twitter.com/DanielatOCN)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbradley95/)
 
 I am a **Senior Solution Architect**, **Microsoft MVP (Security)**, and the author of *"Microsoft Graph PowerShell for Administrators"*. I specialise in Microsoft Entra, Intune, Microsoft Graph, and PowerShell automation. 
@@ -9,7 +9,7 @@ Alongside my professional architectural work, I actively build open-source tools
 
 ---
 
-### 🌐 Featured Blogs & Community Platforms
+### <img src="https://msicons.com/icons/agent-365/Agent%20Sharing.svg"> Featured Blogs & Community Platforms
 
 > ### 📚 [Our Cloud Network](https://ourcloudnetwork.com/)
 > My primary technical blog focusing on Microsoft 365 enterprise mobility, identity, security, and cloud automation tutorials.
