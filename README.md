@@ -1,21 +1,46 @@
-### Welcome to my page :wave:
+# Hi there, I'm Daniel Bradley 👋 
 
-#### My Blog :open_book: https://ourcloudnetwork.com/
+[![Twitter Follow](https://img.shields.io/twitter/follow/DanielatOCN?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=white)](https://twitter.com/DanielatOCN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbradley95/)
 
-<!-- Icons -->
+I am a **Senior Solution Architect**, **Microsoft MVP (Security)**, and the author of *"Microsoft Graph PowerShell for Administrators"*. I specialise in Microsoft Entra, Intune, Microsoft Graph, and PowerShell automation. 
 
-[1.2]: https://imgur.com/GrtQukH.png (twitter icon)
-[1.3]: https://imgur.com/LxyNXyN.png (Linkedin icon)
+Alongside my professional architectural work, I actively build open-source tools and write technical resources to help the Microsoft 365 and cloud community.
 
+---
 
-<!-- Social Media Links -->
+### 🌐 Featured Blogs & Community Platforms
 
-[1]: https://twitter.com/DanielatOCN
-[2]: https://www.linkedin.com/in/danielbradley95/
+> ### 📚 [Our Cloud Network](https://ourcloudnetwork.com/)
+> My primary technical blog focusing on Microsoft 365 enterprise mobility, identity, security, and cloud automation tutorials.
 
-#### My Twitter [![Twitter][1.2]][1] https://twitter.com/DanielatOCN
-#### My Linked [![LinkedIn][1.3]][2] https://www.linkedin.com/in/danielbradley95/
+> ### 🎨 [MS Icons](https://msicons.com/)
+> A comprehensive community resource directory and library for official cloud and technical architecture icons.
 
-#### My Certifications :scroll:	https://www.credly.com/users/daniel-bradley
+> ### 📬 [MS Message Center](https://msmessagecenter.com/)
+> A dedicated platform built to help professionals stay informed on the latest Microsoft 365 updates and roadmap announcements.
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielbradley1&show_icons=true&theme=radical)
+> ### 📊 [MS Docs Tracker](https://msdocstracker.com/)
+> An automated tracking platform to follow, monitor, and report on real-time documentation changes across Microsoft Learn.
+
+---
+
+### 🛠️ Open Source Tooling
+
+In addition to my web platforms, you can find several of my automation and security utilities right here on GitHub:
+*   **MiToken** – A lightweight tool designed for inspecting, decoding, and working with identity tokens.
+*   **CAPolicyCopier** – A tool built to streamline, backup, and copy Conditional Access policies efficiently across tenants.
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielbradley1&show_icons=true&theme=radical&hide_border=true" alt="Daniel's GitHub stats" />
+</p>
+
+---
+
+### 📬 Let's Connect!
+*   **Twitter/X:** [@DanielatOCN](https://twitter.com/DanielatOCN)
+*   **LinkedIn:** [Daniel Bradley](https://www.linkedin.com/in/danielbradley95/)
